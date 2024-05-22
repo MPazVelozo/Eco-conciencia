@@ -10,48 +10,70 @@
     <style>
         /* Estilos generales */
         body {
+            font-family: 'BIZ UDPMincho', serif;
             font-size: 14px;
+            background-image: url('imagenes-inicio/v211_31.png'); 
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            color: #333;
         }
 
         /* Estilos para el contenedor principal */
         .container {
-            max-width: 1200px; /* Ajusta el ancho máximo según sea necesario */
-            margin: 0 auto; /* Centra el contenedor */
+            max-width: 1200px;
+            margin: 0 auto;
             padding: 20px;
         }
 
         /* Estilos para las secciones */
         .section {
-            margin-bottom: 30px; /* Espacio entre secciones */
+            margin-bottom: 30px;
+            padding: 20px;
+            border-radius: 10px;
+            color: #fff;
         }
 
         /* Estilos para las imágenes de fondo */
         .bg-image {
             background-size: cover;
             background-position: center;
-            opacity: 1;
             overflow: hidden;
+            padding: 40px 20px;
+            border-radius: 10px;
         }
 
         /* Estilos para los títulos */
         .title {
-            color: rgba(0, 0, 0, 1);
             font-family: 'Irish Grover', cursive;
-            font-size: 20px;
-            opacity: 1;
-            text-align: left;
+            font-size: 24px;
+            text-align: center;
+            margin-bottom: 15px;
         }
 
         /* Estilos para los elementos específicos */
-        .banner {
-            height: 678px;
-        }
-
         .navbar-brand {
-            font-size: 24px; /* Tamaño del texto del logotipo */
+            font-size: 28px;
+            font-family: 'Irish Grover', cursive;
+            color: #007bff;
         }
 
-        /* Añade más estilos según sea necesario */
+        .navbar-brand:hover {
+            color: #0056b3;
+        }
+
+        /* Mejorando el contraste del texto */
+        .section.bg-image h2,
+        .section.bg-image p {
+            color: #fff;
+            text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+        }
+
+        /* Ajustes adicionales */
+        .bg-light {
+            background-color: rgba(248, 249, 250, 0.8) !important; /* Navbar semitransparente */
+        }
     </style>
     <title>Document</title>
 </head>
@@ -60,25 +82,27 @@
         <!-- Navbar -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light section">
             <a class="navbar-brand" href="#">ECOCONCIENCIA</a>
+            <div class="col-md-4 section bg-image" style="background-image: url('imagenes-inicio/v211_21.png');">
+                <h2 class="title">ECOCONCIENCIA</h2>
             <!-- Resto del navbar -->
         </nav>
 
         <!-- Secciones -->
         <div class="row">
             <!-- Aprendizaje -->
-            <div class="col-md-4 section bg-image" style="background-image: url('../images/aprendizaje.jpg');">
+            <div class="col-md-4 section bg-image" style="background-image: url('imagenes-inicio/v78_113.png');">
                 <h2 class="title">Aprendizaje</h2>
                 <!-- Contenido de la sección -->
             </div>
 
             <!-- Educación -->
-            <div class="col-md-4 section bg-image" style="background-image: url('../images/educacion.jpg');">
+            <div class="col-md-4 section bg-image" style="background-image: url('imagenes-inicio/v78_114.png');">
                 <h2 class="title">Educación</h2>
                 <!-- Contenido de la sección -->
             </div>
 
             <!-- Videos -->
-            <div class="col-md-4 section bg-image" style="background-image: url('../images/videos.jpg');">
+            <div class="col-md-4 section bg-image" style="background-image: url('imagenes-inicio/v78_115.png');">
                 <h2 class="title">Videos</h2>
                 <!-- Contenido de la sección -->
             </div>
@@ -86,13 +110,13 @@
 
         <div class="row">
             <!-- Cuentos -->
-            <div class="col-md-4 section bg-image" style="background-image: url('../images/cuentos.jpg');">
+            <div class="col-md-4 section bg-image" style="background-image: url('imagenes-inicio/v489_3.png');">
                 <h2 class="title">Cuentos</h2>
                 <!-- Contenido de la sección -->
             </div>
 
             <!-- Canciones -->
-            <div class="col-md-4 section bg-image" style="background-image: url('../images/canciones.jpg');">
+            <div class="col-md-4 section bg-image" style="background-image: url('imagenes-inicio/v497_130.png');">
                 <h2 class="title">Canciones</h2>
                 <!-- Contenido de la sección -->
             </div>
