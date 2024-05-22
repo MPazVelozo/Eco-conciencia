@@ -1,0 +1,316 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-size: 14px;
+  }
+  
+  .v497_121 {
+    width: 100%;
+    height: 678px;
+    background: url("../images/v497_121.png") no-repeat center center / cover;
+    opacity: 1;
+    position: relative;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .v211_31 {
+    width: 100%;
+    height: 719px;
+    background: url("../images/v211_31.png") no-repeat center center / cover;
+    opacity: 1;
+    position: absolute;
+    top: 11px;
+    left: 16px;
+    overflow: hidden;
+  }
+  
+  .v497_123 {
+    width: 188px;
+    height: 37px;
+    background: rgba(110,192,228,1);
+    opacity: 1;
+    position: absolute;
+    top: 267px;
+    left: 410px;
+  }
+  
+  .v78_114 {
+    width: 174px;
+    height: 109px;
+    background: url("../images/v78_114.png") no-repeat center center / cover;
+    opacity: 1;
+    position: absolute;
+    top: 305px;
+    left: 614px;
+    overflow: hidden;
+  }
+  
+  .v78_113 {
+    width: 162px;
+    height: 110px;
+    background: url("../images/v78_113.png") no-repeat center center / cover;
+    opacity: 1;
+    position: absolute;
+    top: 305px;
+    left: 424px;
+    overflow: hidden;
+  }
+  
+  .v497_124 {
+    width: 140px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 274px;
+    left: 447px;
+    font-family: 'Irish Grover', cursive;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  
+  .v497_126 {
+    width: 188px;
+    height: 37px;
+    background: rgba(255,208,34,1);
+    opacity: 1;
+    position: absolute;
+    top: 418px;
+    left: 528px;
+  }
+  
+  .v489_3 {
+    width: 141px;
+    height: 118px;
+    background: url("../images/v489_3.png") no-repeat center center / cover;
+    opacity: 1;
+    position: absolute;
+    top: 479px;
+    left: 554px;
+    overflow: hidden;
+  }
+  
+  .v78_99 {
+    width: 98px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 432px;
+    left: 579px;
+    font-family: 'Irish Grover', cursive;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  
+  .v497_127 {
+    width: 188px;
+    height: 37px;
+    background: rgba(110,192,228,1);
+    opacity: 1;
+    position: absolute;
+    top: 419px;
+    left: 449px;
+  }
+  
+  .v497_130 {
+    width: 148px;
+    height: 109px;
+    background: url("../images/v497_130.png") no-repeat center center / cover;
+    opacity: 1;
+    position: absolute;
+    top: 468px;
+    left: 426px;
+    overflow: hidden;
+  }
+  
+  .v497_131 {
+    height: 220px;
+    background: rgba(248,130,174,0.7);
+    opacity: 1;
+    position: absolute;
+    top: 365px;
+    left: 98px;
+  }
+  
+  .v211_21 {
+    width: 566px;
+    height: 202px;
+    background: url("../images/v211_21.png") no-repeat center center / cover;
+    opacity: 1;
+    position: absolute;
+    top: 56px;
+    left: 447px;
+    overflow: hidden;
+  }
+  
+  .v497_120 {
+    width: 188px;
+    height: 37px;
+    background: rgba(255,208,34,1);
+    opacity: 1;
+    position: absolute;
+    top: 264px;
+    left: 626px;
+  }
+  
+  .v497_125 {
+    width: 118px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 274px;
+    left: 578px;
+    font-family: 'Irish Grover', cursive;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  
+  .v238_62 {
+    width: 188px;
+    height: 37px;
+    background: rgba(110,192,228,1);
+    opacity: 1;
+    position: absolute;
+    top: 264px;
+    left: 397px;
+    border-radius: 80px;
+    overflow: hidden;
+  }
+  
+  .v78_115 {
+    width: 148px;
+    height: 109px;
+    background: url("../images/v78_115.png") no-repeat center center / cover;
+    opacity: 1;
+    position: absolute;
+    top: 308px;
+    left: 387px;
+    overflow: hidden;
+  }
+  
+  .v78_100 {
+    width: 73px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 273px;
+    left: 334px;
+    font-family: 'Irish Grover', cursive;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  
+  .v497_141 {
+    width: 95px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 428px;
+    left: 397px;
+    font-family: 'Irish Grover', cursive;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  
+  .v249_76 {
+    width: 181px;
+    height: 169px;
+    background: url("../images/v249_76.png") no-repeat center center / cover;
+    opacity: 1;
+    position: absolute;
+    top: 10px;
+    left: 140px;
+    border-radius: 85px;
+    overflow: hidden;
+  }
+  
+  .v497_132 {
+    width: 258px;
+    height: 191px;
+    background: rgba(248,130,174,0.7);
+    opacity: 1;
+    position: absolute;
+    top: 205px;
+    left: 109px;
+  }
+  
+  .v507_3 {
+    width: 230px;
+    height: 37px;
+    background: url("../images/v507_3.png") no-repeat center center / cover;
+    opacity: 1;
+    position: absolute;
+    top: 339px;
+    left: 122px;
+    overflow: hidden;
+  }
+  
+  .v497_136 {
+    width: 230px;
+    height: 37px;
+    background: rgba(93,204,254,0.45);
+    opacity: 1;
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  
+  .v497_135 {
+    width: 230px;
+    height: 37px;
+    background: rgba(93,204,254,0.45);
+    opacity: 1;
+    position: absolute;
+    top: 282px;
+    left: 122px;
+  }
+  
+  .v497_134 {
+    width: 230px;
+    height: 37px;
+    background: rgba(93,204,254,0.45);
+    opacity: 1;
+    position: absolute;
+    top: 233px;
+    left: 122px;
+  }
+  
+  .v497_138 {
+    width: 170px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 295px;
+    left: 151px;
+    font-family: 'BIZ UDPMincho', serif;
+    font-size: 16px;
+    opacity: 1;
+    text-align: center;
+  }
+  
+  .v497_139 {
+    width: 124px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 345px;
+    left: 170px;
+    font-family: 'BIZ UDPMincho', serif;
+    font-size: 16px;
+    opacity: 1;
+    text-align: center;
+  }
+  
+  .v497_137 {
+    width: 190px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 246px;
+    left: 162px;
+    font-family: 'BIZ UDPMincho', serif;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+  }
+  
