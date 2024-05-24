@@ -28,8 +28,7 @@ position: absolute;
     font-size: 15px;
     text-align: left;
     border: 1px solid #5a6268;
-    z-index: 1000; /* Asegúrate de que esté por encima del contenedor */
-  /* Asegúrate de que esté por encima del contenedor */
+    z-index: 1000;
 
 }
  
