@@ -13,9 +13,22 @@ margin-top: 60px;
 display:flex;
 justify-content: left;
 position: absolute;
+}
 
+.custom-button {
+    position: absolute;
+    margin-top: 0px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    padding: 10px;
+    font-size: 12px;
+    text-align: left;
+    font-size: 15px;
+    border: none;
+    z-index: 1000; /* Asegúrate de que esté por encima del contenedor */
 
-  }
-
-
+}
  
