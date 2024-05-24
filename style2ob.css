@@ -58,5 +58,5 @@ background-size: cover;
   text-align: left;
   font-size: 15px;
   border: none;
-  z-index: 1000; /* Asegúrate de que esté por encima del contenedor */
+  z-index: 1000;
 }
